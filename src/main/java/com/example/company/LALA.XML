@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Response>
+    <ProcessId>1234</ProcessId>
+    <PrdcontId>650002228,650002017,650002227,650002226</PrdcontId>
+    <ResCode>100002</ResCode>
+    <ResMessage>server is busy</ResMessage>
+
+    <ProcessId>1234</ProcessId>
+    <PrdcontId>650002228,650002017,650002227,650002226</PrdcontId>
+    <ResCode>100002</ResCode>
+    <ResMessage>server is busy</ResMessage>
+</Response>
+
